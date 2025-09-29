@@ -1,0 +1,229 @@
+<!--Name: Justin Wainwright-->
+<!--ID #2408119-->
+<!--Date: 9/23/2025-->
+<!--Description: Individual Assessment 1- Personal Portfolio-->
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset = "UTF-8">
+        <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+        <title>Personal Portfolio</title>
+        <link rel = "stylesheet" href = "../styles.css">
+    </head>
+
+    <body>
+        <header>
+            <div class = "logo">
+                <img src = "../Assets/channels4_profile.jpg" alt="Logo">
+            </div>
+            <nav>
+                <ul>
+                    <li><a href = "index.html">Home</a></li>
+                    <li><a href = "index.html#hobbies">Hobbies</a></li>
+                    <li><a href = "index.html#hero">Hero</a></li>
+                    <li><a href = "index.html#personality-page">Personality</a></li>
+                    <li><a href = "index.html#personaldev-page">Development</a></li>
+                    <li><a href = "resume.html">Resume</a></li>
+                    <li><a href = "blog.html">Blog</a></li>
+                    <li><a href = "index.html#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section class = "intro">
+                <h1>Justin Wainwright Portfolio</h1>
+                   
+                <div class = "picture">
+                    <a href = "mailto:justinn.wainwright@students.utech.edu.jm">
+                        <img src = "../Assets/WhatsApp Image 2025-09-27 at 22.33.45_1f240a71.jpg" alt = "Profile Picture">
+                    </a>
+                <p>
+                    Student | Web Developer | Front-End Developer |
+                </p>
+                </div>
+                    
+            </section>
+
+            <section class = "about-me">
+                <h2>About Me</h2>
+                <p>I'm a 20 year old Computer Science student at Utech, Jamaica.</p>
+
+                <h3>Vision</h3>
+                <p>I want to be a leading expert in web development, creating innovative solutions that enhance user experiences.</p>
+
+                <h3>Mission</h3>
+                <p>My mission is to continuously improve my skills and knowledge in technology, and to contribute positively to the tech community.</p>
+            </section>
+
+            <hr class="section-divider">
+
+            <section id = "hobbies">
+                <h2>My Hobbies</h2>
+                <section class="hobby-cards">
+
+                    <div class="hobby-card">
+                        <img src="../Assets/Graduation_(album).jpg" alt="Music" class="hobby-pic">
+                        <h2>🎵 Listening to Music</h2>
+                        <p>
+                            Music helps me relax and stay focused while studying. 
+                            It boosts my mood and keeps me motivated during long coding sessions.
+                        </p>
+                    </div>
+
+                    <div class="hobby-card">
+                        <img src="../Assets/Minecraft_game_cover.jpeg" alt="Gaming" class="hobby-pic">
+                        <h2>🎮 Gaming</h2>
+                        <p>
+                            Gaming helps to keep me calm when I'm stressed. 
+                            Balancing gaming with academics helps me stay healthy and manage stress effectively.
+                        </p>
+                    </div>
+
+                    <div class="hobby-card">
+                        <img src="../Assets/computer-program-coding-screen_53876-138060.jpg" alt="Coding" class="hobby-pic">
+                        <h2>💻 Coding</h2>
+                        <p>
+                            Coding is more than a hobby—it's my passion. 
+                            Practicing coding outside class strengthens my problem-solving skills 
+                            and prepares me for real-world projects.
+                        </p>
+                    </div>
+                </section>
+            </section>
+
+            <hr class="section-divider">
+
+            <section id = "hero">
+                <h1>My Hero: Usain Bolt</h1>
+                <img src = "../Assets/960px-Usain_Bolt_Rio_100m_final_2016k.jpg" alt = "Hero Picture" class = "hero-pic">
+                
+                <article>
+                    <h2>Why he Inspires me</h2>
+                    <p>
+                        Usain Bolt is my hero because of his unmatched determination, discipline, and drive 
+                        to be the best. He proved that with hard work, confidence, and persistence, 
+                        you can rise above challenges and break limits. 
+                        His success on the track inspires me to push past my own boundaries in life.
+                    </p>
+                </article>
+
+                <article>
+                    <h2>Background</h2>
+                    <p>
+                        Born in Sherwood Content, Jamaica, Usain Bolt is an eight-time Olympic gold medalist 
+                        and widely regarded as the fastest man alive. He holds world records in the 
+                        100m and 200m sprint. Beyond athletics, he is a role model for perseverance, 
+                        humility, and representing Jamaica proudly on the world stage.
+                    </p>
+                </article>
+
+                <article class = "favorite-quote">
+                    <h2>Favourite Quote</h2>
+                    <p>"The difference between the impossible and the possible lies in determination."</p>
+                </article>
+
+                <article>
+                    <h2>Achievements</h2>
+                    <ul>
+                        <li>8-time Olympic Gold Medalist</li>
+                        <li>World Record Holder in 100m and 200m sprints</li>
+                        <li>Named the IAAF World Athlete of the Year multiple times</li>
+                    </ul>
+                </article>
+                <a href = "#top" class = "back-to-top">Back to Top</a>
+            </section>
+
+            <hr class="section-divider">
+
+            <section id = "personality-page">
+                <h2>My Personality Traits</h2>
+                <section class = "personality-traits">
+                    <div class = "trait-card">
+                        <h3>Discipline</h3>
+                        <p>I stay focused on my studies and manage my time effectively. This helps me complete assignments before deadlines and maintain a consistent academic performance.</p>
+                    </div>
+
+                    <div class = "trait-card">
+                        <h3>Hardworking</h3>
+                        <p>I put in a lot of effort into my studies and projects, always striving to do my best.</p>
+                    </div>
+
+                    <div class = "trait-card">
+                        <h3>Team Player</h3>
+                        <p>I enjoy working with others, especially in group projects. This trait helps me share ideas, listen, and collaborate effectively with classmates.</p>
+                    </div>
+                </section>
+
+                <hr class="section-divider">
+
+                <section class = "hero-quote">
+                    <h2>Inspirational Quote</h2>
+                    <blockquote>
+                        "The difference between the impossible and the possible lies in determination." - Usain Bolt
+                    </blockquote>
+                    <p>
+                        This quote inspires me to push through academic challenges even when tasks feel overwhelming. 
+                        Usain Bolt's journey reminds me that consistent effort and belief in yourself can turn goals into reality.
+                    </p> 
+                </section>
+
+                <hr class="section-divider">
+                
+                <a href = "#top" class = "back-to-top">Back to Top</a>
+            </section>
+
+            
+
+            <section id = "personaldev-page">
+                <h1>Personal Development - Twelve Pillars Reflection</h1>
+            <p>This is a summary of my understanding of the twelve pillars of personal development.</p>
+
+            <article>
+                <h2>Chapter 4 - Achieve Your Goals</h2>
+                <p>
+                    This chapter emphasizes the importance of setting clear, measurable goals. 
+                    I've learned that breaking down my dream of becoming a software engineer into smaller steps 
+                    (such as mastering HTML/CSS and building projects) makes success more achievable.
+                </p>
+            </article>
+
+            <article>
+                <h2>Chapter 5 - The Proper Use of Time</h2>
+                <p>
+                    Time is a resource we cannot replace. 
+                    I sometimes procrastinate, but this chapter challenged me to plan my days better. 
+                    I now dedicate fixed hours for coursework and self-study.
+                </p>
+            </article>
+
+            <article>
+                <h2>Chapter 6 - Surround Yourself with the Best People</h2>
+                <p>
+                    The people we associate with influence our growth. 
+                    For me, this means surrounding myself with classmates who are ambitious and 
+                    engaging with tech communities that challenge me to improve.
+                </p>
+            </article>
+
+            <article>
+                <h2>Chapter 7 - Be a Lifelong Learner</h2>
+                <p>
+                    Learning never ends. This chapter connects to computing perfectly, 
+                    because technology evolves every day. 
+                    I've committed to online courses and coding challenges to ensure I keep growing.
+                </p>
+            </article>
+            </section>
+        </main>
+
+        <footer id = "contact">
+            <p>📧Email: <a href = "mailto:justinn.wainwright@students.utech.edu.jm">justinn.wainwright@students.utech.edu.jm</a></p>  
+            <p>🌐Github: <a href = "https://github.com/2408119-Justin/2408119-Repo.git">My Repository</a></p>
+            <p>📞Phone: <a href = "tel:+1234567890">+1 (234) 567-890</a></p>
+            <a href = "#top" class = "back-to-top">Back to Top</a>
+            <p class = "copyright">&copy; 2025 Justin Wainwright</p>
+        </footer>
+    </body>
+</html>
